@@ -15,3 +15,5 @@ git add --all
 git commit -m "Initial commit"
 git push
 ```
+### preview html file from github
+on https://htmlpreview.github.io/
